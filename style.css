@@ -1,0 +1,33 @@
+body {background-color: #d278de;}
+
+
+.main{
+	background-color: lightblue;
+	width: 700px;
+	height: 300px;
+	padding: 50px;
+	position: relative;
+	left: 225px;
+	top: 50px;
+	bottom: 50px;
+
+}
+
+#intro{
+	position: relative;
+	text-align: center;
+
+}
+
+#links{
+	position:relative;
+	left:300px;
+	bottom:300px;
+
+}
+
+#header{
+	text-align:center;
+	position: relative;
+	
+}
