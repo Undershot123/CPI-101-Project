@@ -23,27 +23,18 @@ body {background-color: #d278de;}
 
 
 .legsMain{
-	background-color: lightblue;
+
 	width: 700px;
 	height: 300px;
 	padding: 50px;
-	position: relative;
-	left: 225px;
-	top: 50px;
-	bottom: 50px;
 
 }
 
 
 .coreMain{
-	background-color: lightblue;
 	width: 700px;
 	height: 300px;
 	padding: 50px;
-	position: relative;
-	left: 225px;
-	top: 50px;
-	bottom: 50px;
 
 }
 
